@@ -1,5 +1,3 @@
-
-
 # Technical Documentation
 
 **Project**: Portfolio Website  
@@ -16,8 +14,8 @@ A simple personal portfolio website with three sections: About, Projects, and Co
 
 ## Technologies
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Git and GitHub
 
@@ -32,7 +30,6 @@ assignment-1/
 ├── js/
 │   └── script.js
 ├── assets/
-│   └──docs
 │   └── images/
 │       ├── project1.png
 │       └── project2.png
@@ -94,6 +91,8 @@ assignment-1/
 
 Tested on:
 - Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
 - Safari
 
 ---
@@ -156,3 +155,19 @@ Tested on:
 
 **Last Updated**: February 2025  
 **Author**: Meshaal Alharbi
+```
+
+---
+
+## **What Changed:**
+
+**Line 13 - Before:**
+```
+- HTML5
+- CSS3
+```
+
+**Line 13 - After:**
+```
+- HTML
+- CSS
